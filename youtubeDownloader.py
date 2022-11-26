@@ -46,6 +46,7 @@ def Downloader():
     video = url.streams.all()
     choice = qual_entry.get()
     choice = int(choice)
+    choice = chooseQual(choice)
     video[choice].download()
     
     Label(window, text='Downloaded', font='arial 10 bold').place(x=250, y=300)
