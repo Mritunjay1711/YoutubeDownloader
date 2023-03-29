@@ -1,5 +1,5 @@
 # YoutubeDownloader
-This is YouTube downloader made using python. pytube and tkinter are the libraries used to build this downloader. You just need to download the code and activate virtual environment using the following commands and install the required libraries.
+This is YouTube mp3 downloader made using python. pytube and tkinter are the libraries used to build this downloader. You just need to download the code and activate virtual environment using the following commands and install the required libraries.
 
 
 # Steps to use(in Ubuntu)
